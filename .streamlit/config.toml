@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#1f3d2b"            # tea green
+backgroundColor = "#f6f1e7"         # cream
+secondaryBackgroundColor = "#ebe2cf" # parchment
+textColor = "#1b1b1b"               # ink
+linkColor = "#3e6034"               # leaf, darkened for contrast
+borderColor = "#d6cbb5"
+baseRadius = "12px"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+headingFont = "Fraunces:https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&display=swap"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
