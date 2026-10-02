@@ -2,7 +2,7 @@
 
 An online store for **Mistvale Tea Co.**, a fictional tea brand from the Darjeeling hills, written entirely in Python with Streamlit. The business logic is a plain, framework-free Python package with its own test suite; the Streamlit app is only the UI on top.
 
-**Live demo:** _add your Streamlit Community Cloud link here after deploying_
+**Live demo:** https://pratik-mistvale-tea.streamlit.app/
 
 ![Mistvale product image](images/p104.webp)
 
